@@ -1,4 +1,4 @@
-# Hi there , I'm Snow
+ingilicce güzel ama inglicce küfür ediyor belki ama güzel ingilicce
 ![profile count](https://komarev.com/ghpvc/?username=SnowsOuts&color=8b72ff)&nbsp;
 [![GitHub SnowsOuts](https://img.shields.io/github/followers/SnowsOuts?label=follow&style=social)](https://github.com/SnowsOuts)&nbsp;
 
