@@ -1,6 +1,4 @@
 # Güzel Ama İngilicce Belki Küfür Ediyor Bilmiom Ama İngilicce
-# Ücretli bot yaptırmak isteyen bilgi için DM: Jaylen#9097 yada SnowOuts#0119
-
 
 ![profile count](https://komarev.com/ghpvc/?username=SnowsOuts&color=000000)&nbsp;
 [![GitHub SnowsOuts](https://img.shields.io/github/followers/SnowsOuts?label=follow&style=social)](https://github.com/SnowsOuts)&nbsp;
