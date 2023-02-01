@@ -1,4 +1,4 @@
-# Güzel Ama İngilicce Belki Küfür Ediyor Bilmiom Ama İngilicce
+# Fazla Ciddi Takılma
 
 ![profile count](https://komarev.com/ghpvc/?username=SnowsOuts&color=808080)&nbsp;
 [![GitHub SnowsOuts](https://img.shields.io/github/followers/SnowsOuts?label=follow&style=social)](https://github.com/SnowsOuts)&nbsp;
